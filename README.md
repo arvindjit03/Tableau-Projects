@@ -11,4 +11,4 @@ This repository contains various Tableau projects. All the projects uploaded her
 #### :point_right: San Francisco Airport Dashboard
 ![image](https://github.com/arvindjit03/Tableau-Projects/blob/main/San%20Francisco%20Airport%20Dashboard/Final%20Dashboard.png)
 #### :point_right: Airbnb NewYork Neighbourhood Analysis
-![image](https://github.com/arvindjit03/Tableau-Projects/blob/main/San%20Francisco%20Airport%20Dashboard/Final%20Dashboard.png)
+![image](https://github.com/arvindjit03/Tableau-Projects/blob/main/Airbnb%20NewYork%20Neighbourhood%20Analysis/Airbnb%20Data%20Analysis.png)
