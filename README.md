@@ -8,5 +8,6 @@ This repository contains various Tableau projects. All the projects uploaded her
 :sparkles: View all of my Tableau Projects on my Tableau Public Profile: [Click here](https://public.tableau.com/app/profile/arvindjit.singh/)
 
 ### Screenshots
-#### San Francisco Airport Dashboard
+##### :point_right: San Francisco Airport Dashboard
+![image](https://github.com/arvindjit03/Tableau-Projects/blob/main/San%20Francisco%20Airport%20Dashboard/Final%20Dashboard.png)
 
