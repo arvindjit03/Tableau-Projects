@@ -2,6 +2,7 @@
 This repository contains various Tableau projects. All the projects uploaded here are for Self-Learning purposes. 
 | Projects | 
 |:---|
+| [Champions League Data Visualization](https://public.tableau.com/app/profile/arvindjit.singh/viz/Dashboard_ChampionsLeague_22-23/Dashboard1)|
 | [San Francisco Airport Dashboard](https://public.tableau.com/app/profile/arvindjit.singh/viz/Dashboard-SanFranciscoAirportData/FinalDashboard)| 
 | [Airbnb NewYork Neighbourhood Analysis](https://public.tableau.com/app/profile/arvindjit.singh/viz/Practice-AirbnbNewYorkdata-Dashboard/Dashboard1)| 
 
