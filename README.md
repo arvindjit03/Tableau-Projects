@@ -1,5 +1,5 @@
 # Tableau-Projects
-This repository contains various Tableau projects. All the projects uploaded here are for Self-Learning purposes. 
+This repository contains various Tableau projects. All the projects uploaded here are for self-learning and a deeper understanding of Tableau software. 
 | Projects | 
 |:---|
 | [Champions League Data Visualization](https://public.tableau.com/app/profile/arvindjit.singh/viz/Dashboard_ChampionsLeague_22-23/Dashboard1)|
