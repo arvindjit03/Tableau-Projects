@@ -3,3 +3,4 @@ In this project, we are performing ETL using Tableau on Sales data and for datab
 - We have created our data model in Tableau and performed Data cleaning.
 - After cleaning the data, we loaded it into Tableau and created various worksheets using  different visualizations.
 - At last, we added all the worksheets and built an interactive dashboard that shows all the insights for the sales of different products and customers.
+- Here is the link to the final Sales dashboard [Sales_Insights](https://public.tableau.com/app/profile/arvindjit.singh/viz/Sales_Insights_17109565133920/Sales_Insights)
