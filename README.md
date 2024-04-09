@@ -1,5 +1,5 @@
 # Tableau-Projects
-This repository contains various Tableau projects. All the projects uploaded here are for self-learning and a deeper understanding of Tableau software. 
+This repository contains various Tableau projects. All the projects uploaded here are for self-learning and a deeper understanding of Tableau software.
 | Projects | 
 |:---|
 | [Sales Data Insights](https://public.tableau.com/app/profile/arvindjit.singh/viz/Sales_Insights_17109565133920/Sales_Insights)|
