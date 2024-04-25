@@ -1,4 +1,4 @@
-# Tableau-Projects
+# Tableau-Projects 
 This repository contains various Tableau projects. All the projects uploaded here are for self-learning and a deeper understanding of Tableau software.
 | Projects | 
 |:---|
