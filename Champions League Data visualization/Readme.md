@@ -1,6 +1,6 @@
 **Champions League Dashboard**
 
-The dashboard unfolds statistics up to the final of the 2022/23 season, revealing insights like never before.
+The dashboard unfolds statistics up to the final of the 2022/23 season, revealing insights like never before. 
 
 Dashboard Highlights:
 
